@@ -1,11 +1,12 @@
 private void Btn_Somar(object sender, EventArgs e)
  {
- int V1, V2, resultado;
+ int V1, V2, V3, resultado;
  
  V1 = Convert.ToInt32(txtValor1.Text);
  V2 = Convert.ToInt32(txtValor2.Text);
+ V3 = Convert.ToInt(txtValor3);
  
- resultado =V1 + V2;
+ resultado =V1 + V2 * V3;
  
  lblResultado.Text = resultado.ToString();
  }
