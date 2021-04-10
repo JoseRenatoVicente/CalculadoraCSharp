@@ -1,2 +1,2 @@
 # CalculadoraCSharp
-Calculadora criada usando o WindowsForms .NET Framework usando Orientação a objetos
+Calculadora criada usando o WindowsForms .NET Framework usando Programação Orientada a Objetos.
